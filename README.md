@@ -5,7 +5,7 @@ In deze module leer je met relationele databanken werken, waarbij de student de 
 kennen. De student moet ook de integratie van SQL in .NET beheersen. NoSql en andere database-
 technieken worden aangehaald dat deze bestaan maar verder niet toegelicht in.
 
-### Inhoud
+### Leerdoelen 
 - SQL, NET integratie
 	 - Conceptual, Logical, Pysical datamodel 
 	- ERD 
@@ -14,7 +14,7 @@ technieken worden aangehaald dat deze bestaan maar verder niet toegelicht in.
 	- Triggers 
 
 
-### Inhoud   
+### Uitwerking   
  |Repo link  | Techniek  | Toelichting  |  
  |--|--|--| 
 |[dummy](www.url.nl) | lorum ipsum| dummy toelichting 1 |
